@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 5957.347999999999,
+    "medianResTime" : 6299.0,
+    "minResTime" : 2826.0,
+    "maxResTime" : 9021.0,
+    "pct1ResTime" : 7866.6,
+    "pct2ResTime" : 8318.349999999999,
+    "pct3ResTime" : 8776.9,
+    "throughput" : 109.96261271167802,
+    "receivedKBytesPerSec" : 691.8465299923026,
+    "sentKBytesPerSec" : 90.84801792390587
+  },
+  "用户资产查询" : {
+    "transaction" : "用户资产查询",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 5957.347999999999,
+    "medianResTime" : 6299.0,
+    "minResTime" : 2826.0,
+    "maxResTime" : 9021.0,
+    "pct1ResTime" : 7866.6,
+    "pct2ResTime" : 8318.349999999999,
+    "pct3ResTime" : 8776.9,
+    "throughput" : 109.96261271167802,
+    "receivedKBytesPerSec" : 691.8465299923026,
+    "sentKBytesPerSec" : 90.84801792390587
+  }
+}
